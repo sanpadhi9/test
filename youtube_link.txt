@@ -3,3 +3,5 @@ https://www.youtube.com/watch?v=rYJmMmpGhdg--GCP
 https://www.youtube.com/watch?v=kTp5xUtcalw--docker&K8
 https://www.youtube.com/watch?v=Dde2vydUtEg--docker&K8M
 https://www.youtube.com/watch?v=rIcy-kbnbFk--Docker and Kubernetes: The Complete Guide |Stephen Grider| Part-1
+
+https://www.youtube.com/watch?v=hI-_zpvKiAY--Docker and Kubernetes: The Complete Guide |Stephen Grider| Part-2
